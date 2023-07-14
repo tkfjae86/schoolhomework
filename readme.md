@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png" height="200"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Thesecondalthowcool/Incognito-Static-Version/main/incognito-logo.png" height="200"></p>
 
 <h1 align="center">Incognito Static Version</h1>
 
