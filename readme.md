@@ -2,7 +2,7 @@
 
 <h1 align="center">Incognito Static Version</h1>
 
-The deployable static version of Incognito, a proxy to access the world wide web that is rather fast and fancy and without ads. Deployment options are below.
+The deployable static version of Incognito, a proxy to access the world wide web that is rather fast, fancy and without ads. Deployment options are below.
 
 ## Deployment
 
