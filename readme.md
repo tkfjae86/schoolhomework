@@ -15,5 +15,5 @@ The deployable static version of Incognito, a proxy to access the world wide web
 For any other deployment service, use like any other static website for production.
 
 
-Thanks to kwazeh, a person on discord, for the [bare service worker](https://tiw.tiwweb.workers.dev/) for this proxy. And caracal-js for the main [repository](https://github.com/caracal-js/Incognito) base. Make sure to add credit to this repo and the person who made the bare service worker.
+Thanks to caracal-js for the main [repository](https://github.com/caracal-js/Incognito) base. Make sure to add credit to this repo and the person who made the bare service worker.
 
